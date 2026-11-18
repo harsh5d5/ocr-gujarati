@@ -1,0 +1,8 @@
+// Google Cloud Service Account configuration for Node.js
+// Rename to config.js if you prefer JS module config:
+
+module.exports = {
+    project_id: "your-gcp-project-id",
+    client_email: "your-service-account@your-gcp-project-id.iam.gserviceaccount.com",
+    private_key: "-----BEGIN PRIVATE KEY-----\nYOUR_KEY_HERE\n-----END PRIVATE KEY-----\n"
+};

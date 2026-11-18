@@ -1,0 +1,6 @@
+# Google Cloud Service Account Credentials
+# Rename this file to config.py and fill in your details:
+
+project_id = "your-gcp-project-id"
+client_email = "your-service-account@your-gcp-project-id.iam.gserviceaccount.com"
+private_key = "-----BEGIN PRIVATE KEY-----\nYOUR_KEY_HERE\n-----END PRIVATE KEY-----\n"

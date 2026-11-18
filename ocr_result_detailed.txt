@@ -1,0 +1,38 @@
+=======================================================
+GUJARATI OCR EXTRACTION RESULT (હસ્તલિખિત ગુજરાતી લખાણ)
+Image: WhatsApp Image 2026-11-18 at 11.11.07 AM.jpeg
+=======================================================
+
+--- [EXTRACTED TEXT / ગુજરાતી લખાણ] ---
+⌽ - ૨ ગુણી સીમેન્ટ
+★ - ૧૪
+O - ૧૦ કચ્છી
+△ - ૭ રેતી
+
+-------------------------------------------------------
+--- [LINE-BY-LINE BREAKDOWN & TRANSLATION] ---
+-------------------------------------------------------
+Line 1:
+  Symbol: ⌽ (સર્કલ વિથ વર્ટિકલ લાઇન)
+  Gujarati: ૨ ગુણી સીમેન્ટ
+  Transliteration: 2 Guni Cement
+  English: 2 bags/sacks of cement
+
+Line 2:
+  Symbol: ★ (સ્ટાર / તારો)
+  Gujarati: ૧૪ જગદંબા (નોંધ: '૧૪' પર શાહીથી છેકછાક / ઘાટું કરેલ છે, જગદંબા)
+  Transliteration: 14 Jagadamba (or crossed-out 14 + Jagadamba)
+  English: 14 Jagadamba (cement/brand/supplier)
+
+Line 3:
+  Symbol: O (સર્કલ / ગોળ)
+  Gujarati: ૧૦ કચ્છી
+  Transliteration: 10 Kachchhi
+  English: 10 Kutchi (cement/tiles/blocks)
+
+Line 4:
+  Symbol: △ (ત્રિકોણ / ટ્રાયેંગલ)
+  Gujarati: ૭ રેતી
+  Transliteration: 7 Reti
+  English: 7 (measures/tagara/bags of) sand
+=======================================================
